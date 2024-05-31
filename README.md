@@ -82,19 +82,19 @@ Marketing View
 Supply chain View
 Executive View
 
-
-  ## Finance View ![Alt text](https://your-repository-url/path-to-your-image.png)
-## Sales View ![Alt text](https://your-repository-url/path-to-your-image.png)
-## Marketing View ![Alt text](https://your-repository-url/path-to-your-image.png)
-##Supply Chain View ![Alt text](https://your-repository-url/path-to-your-image.png)
-#Executive View ![Alt text](https://your-repository-url/path-to-your-image.png)
+## Info View ![Info View](https://github.com/priyanshi3100/BI-360/blob/0cd921ebe5337e8fffff7f468f06f712cfc8dce4/Resources/Home%20View%20-%20BI360.png)
+  ## Finance View ![Finance View ](https://github.com/priyanshi3100/BI-360/blob/0cd921ebe5337e8fffff7f468f06f712cfc8dce4/Resources/Finance%20View%20-BI360.png)
+## Sales View ![Sales View](https://github.com/priyanshi3100/BI-360/blob/0cd921ebe5337e8fffff7f468f06f712cfc8dce4/Resources/Sales%20View%20-BI360.png)
+## Marketing View ![Marketing View](https://github.com/priyanshi3100/BI-360/blob/0cd921ebe5337e8fffff7f468f06f712cfc8dce4/Resources/Marketing%20View%20-BI360.png)
+## Supply Chain View ![Supply Chain View](https://github.com/priyanshi3100/BI-360/blob/0cd921ebe5337e8fffff7f468f06f712cfc8dce4/Resources/Supply%20Chain%20View%20-%20BI360.png)
+## Executive View ![Executive View](https://github.com/priyanshi3100/BI-360/blob/0cd921ebe5337e8fffff7f468f06f712cfc8dce4/Resources/Executive%20View-%20BI360.png)
 
 
 ## GitHub
 ### Managing Large Files
 - **GitHub LFS**: For uploading large files and tracking specific file extensions.
 
-- ### FULL REPORT FILE AVAILABLE ;
+- ### FULL REPORT FILE not AVAILABLE ;
 
 ## Questions to Ask Before Starting the Dashboard
 1. What is the objective of building this PowerBI dashboard?
