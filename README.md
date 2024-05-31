@@ -46,13 +46,7 @@ The goal of the Business Insights 360 project is to implement data analytics usi
 - **pre_invoice_deductions**: Pre-invoice deduction percentages per customer with year.
 - **post_invoice_deductions**: Post-invoice deduction details.
 
-## Importing Data
-Datasets from a MySQL database were imported into PowerBI using database access credentials.
-
-## Data Model
-Data modeling is critical, serving as the foundation for the report. Following best practices ensures optimal performance. The Snowflake method was employed for data modeling in this project.
-
-## Key Business Terms
+  ## Key Business Terms
 - **Gross Price**
 - **Pre-Invoice Deductions**
 - **Post-Invoice Deductions**
@@ -64,6 +58,37 @@ Data modeling is critical, serving as the foundation for the report. Following b
 - **YTD** (Year to Date)
 - **YTG** (Year to Go)
 - **Direct, Retailer, Distributors, Consumer**
+
+## Importing Data
+Datasets from a MySQL database were imported into PowerBI using database access credentials.
+
+## Data Model
+* Data modeling is critical, serving as the foundation for the report. 
+* Following best practices ensures optimal performance.
+* The Snowflake method was employed for data modeling in this project.
+ ![## Data model * *](https://github.com/priyanshi3100/BI-360/blob/e1a0570849f6f88ddd5e8846921a95b7e55cb523/Resources/Data%20Model%20-BI360.png)
+
+
+ ## Dashboard designing
+*Based on the mock ups received as requirement, the team will start designing the visuals and create measure as and when required
+
+## Home view
+In Home view, all the views button will be available. User will land on specific view page by clicking the button
+
+Info
+Finance View
+Sales View
+Marketing View
+Supply chain View
+Executive View
+
+
+  ## Finance View ![Alt text](https://your-repository-url/path-to-your-image.png)
+## Sales View ![Alt text](https://your-repository-url/path-to-your-image.png)
+## Marketing View ![Alt text](https://your-repository-url/path-to-your-image.png)
+##Supply Chain View ![Alt text](https://your-repository-url/path-to-your-image.png)
+#Executive View ![Alt text](https://your-repository-url/path-to-your-image.png)
+
 
 ## GitHub
 ### Managing Large Files
@@ -82,5 +107,8 @@ Data modeling is critical, serving as the foundation for the report. Following b
 8. What can go wrong during the project?
 9. What resources/data are needed?
 10. Are there any design or view inputs from stakeholders?
+
+    
+
 
 By addressing these questions and following the structured approach outlined above, AtliQ Hardware can successfully implement data analytics using PowerBI to make informed decisions and enhance their market position.
